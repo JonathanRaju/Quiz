@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sirigirisoftwaresolutions.com/static/css/main.fe6817b3.css",
-    "main.js": "/sirigirisoftwaresolutions.com/static/js/main.f7526cdb.js",
+    "main.css": "/sirigirisoftwaresolutions.com/static/css/main.da6d8c53.css",
+    "main.js": "/sirigirisoftwaresolutions.com/static/js/main.0566cb58.js",
     "static/js/651.d7d033a8.chunk.js": "/sirigirisoftwaresolutions.com/static/js/651.d7d033a8.chunk.js",
     "static/media/logo1.png": "/sirigirisoftwaresolutions.com/static/media/logo1.cecb40bf29a7cb44cd2b.png",
     "index.html": "/sirigirisoftwaresolutions.com/index.html",
-    "main.fe6817b3.css.map": "/sirigirisoftwaresolutions.com/static/css/main.fe6817b3.css.map",
-    "main.f7526cdb.js.map": "/sirigirisoftwaresolutions.com/static/js/main.f7526cdb.js.map",
+    "main.da6d8c53.css.map": "/sirigirisoftwaresolutions.com/static/css/main.da6d8c53.css.map",
+    "main.0566cb58.js.map": "/sirigirisoftwaresolutions.com/static/js/main.0566cb58.js.map",
     "651.d7d033a8.chunk.js.map": "/sirigirisoftwaresolutions.com/static/js/651.d7d033a8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe6817b3.css",
-    "static/js/main.f7526cdb.js"
+    "static/css/main.da6d8c53.css",
+    "static/js/main.0566cb58.js"
   ]
 }
